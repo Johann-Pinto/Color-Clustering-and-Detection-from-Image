@@ -6,4 +6,6 @@ The ML algorithm clusters different shades of colors given in the dataset. In ad
 2. Riya Mathew 20BKT0016
 
 ## Files
-[Color_Clustering_and_Detection.ipynb](Color_Clustering_and_Detection.ipynb)
+Main Code : [Color_Clustering_and_Detection.ipynb](Color_Clustering_and_Detection.ipynb)
+Dataset : [colors.csv](colors.csv)
+Test Image : [detect_color.jpg](detect_color.jpg)
