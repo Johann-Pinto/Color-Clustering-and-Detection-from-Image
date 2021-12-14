@@ -20,7 +20,7 @@ Main Code : [Color_Clustering_and_Detection.ipynb](Color_Clustering_and_Detectio
 ## Steps to run the Program
 1. Install the libraries required to run the program.
 2. Execute all the cells of the Jupyter notebook.
-3. You can view the clusters formed. To check for a random cluster execute 'getCluster(num)' in a new cell, where num is the cluster number.<br>Note that the value of num should be between 1 to 130 since 130 clusters were formed using K-Means Algorithm. 
+3. You can view the clusters formed. To check for a random cluster execute 'getCluster(num)' in a new cell, where num is the cluster number.(<i>Note that the value of num should be between 1 to 130 since 130 clusters were formed using K-Means Algorithm</i>)
 4. After execution of last cell, a new window will pop-up with the test image.
 5. Double-Click on the location of the image on the new window, where you want to the name of the color used in that location of the image.
 6. The name of the color will be displayed at the top of the screen in a rectangle.
